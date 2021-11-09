@@ -4,5 +4,5 @@ pretty self explanatory: here are some templates for documents I will frequently
 
 included:
 
-*cover letter
-*resume (check it out!)
+* cover letter
+* resume (check it out!)
