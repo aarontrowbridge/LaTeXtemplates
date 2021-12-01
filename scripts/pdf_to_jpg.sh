@@ -1,9 +1,11 @@
 #!/bin/sh
 
-# to use run: 'zsh pdf_to_jpg.sh <name>'
+# move script into directory with pdf 
 #
-# for some reason permission don't allow for it
-# it to be run as './pdf_to_jpg.sh <name>'
+# then run: 'zsh pdf_to_jpg.sh <name>'
+#
+# for some reason permissions don't allow for it
+# to be run as './pdf_to_jpg.sh <name>'
 
 NAME=$1 
 
