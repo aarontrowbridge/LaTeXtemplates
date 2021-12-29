@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.10)  30 NOV 2021 23:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/Arch Linux) (preloaded format=pdflatex 2021.6.10)  1 DEC 2021 00:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/aaron/Documents/LaTeXtemplates/twitter_card/twitter_card.tex
-(/home/aaron/Documents/LaTeXtemplates/twitter_card/twitter_card.tex
+**/home/aaron/Documents/LaTeXtemplates/templates/twitter_card/twitter_card.tex
+(/home/aaron/Documents/LaTeXtemplates/templates/twitter_card/twitter_card.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-02-18> (/usr/share/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2021/03/19 v3.62 A class for typesetting presentations
@@ -593,7 +593,7 @@ Package: amsthm 2020/05/29 v2.20.6
 File: l3backend-pdftex.def 2021-03-18 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count322
 \l__pdf_internal_box=\box72
-) (/home/aaron/Documents/LaTeXtemplates/twitter_card/twitter_card.aux)
+) (/home/aaron/Documents/LaTeXtemplates/templates/twitter_card/twitter_card.aux)
 \openout1 = `twitter_card.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -681,7 +681,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 9.
 LaTeX Info: Redefining \pageref on input line 9.
 LaTeX Info: Redefining \nameref on input line 9.
- (/home/aaron/Documents/LaTeXtemplates/twitter_card/twitter_card.out) (/home/aaron/Documents/LaTeXtemplates/twitter_card/twitter_card.out)
+ (/home/aaron/Documents/LaTeXtemplates/templates/twitter_card/twitter_card.out) (/home/aaron/Documents/LaTeXtemplates/templates/twitter_card/twitter_card.out)
 \@outlinefile=\write5
 \openout5 = `twitter_card.out'.
 
@@ -697,12 +697,12 @@ Dictionary: translator-months-dictionary, Language: English
 Dictionary: translator-numbers-dictionary, Language: English 
 ) (/usr/share/texmf-dist/tex/latex/translator/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (/home/aaron/Documents/LaTeXtemplates/twitter_card/twitter_card.nav)
-LaTeX Font Info:    Trying to load font information for U+msa on input line 30.
+) (/home/aaron/Documents/LaTeXtemplates/templates/twitter_card/twitter_card.nav)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 29.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 29.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
@@ -717,20 +717,20 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \tf@snm=\write8
 \openout8 = `twitter_card.snm'.
 
- (/home/aaron/Documents/LaTeXtemplates/twitter_card/twitter_card.aux)
+ (/home/aaron/Documents/LaTeXtemplates/templates/twitter_card/twitter_card.aux)
 Package rerunfilecheck Info: File `twitter_card.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
  20195 strings out of 478994
- 369239 string characters out of 5864751
- 656753 words of memory out of 5000000
+ 369389 string characters out of 5864751
+ 656751 words of memory out of 5000000
  37251 multiletter control sequences out of 15000+600000
  409552 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 131i,11n,132p,466b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 131i,11n,132p,476b,386s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /home/aaron/Documents/LaTeXtemplates/twitter_card/twitter_card.pdf (1 page, 47204 bytes).
+Output written on /home/aaron/Documents/LaTeXtemplates/templates/twitter_card/twitter_card.pdf (1 page, 47204 bytes).
 PDF statistics:
  43 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
