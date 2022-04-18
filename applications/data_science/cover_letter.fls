@@ -1,7 +1,7 @@
-PWD /home/aaron/Documents/LaTeXtemplates/templates/cover_letter
+PWD /home/aaron/Documents/LaTeXtemplates/applications/data_science
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/aaron/Documents/LaTeXtemplates/templates/cover_letter/cover_letter.tex
+INPUT /home/aaron/Documents/LaTeXtemplates/applications/data_science/cover_letter.tex
 OUTPUT cover_letter.log
 INPUT /usr/share/texmf-dist/tex/latex/base/letter.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/letter.cls
