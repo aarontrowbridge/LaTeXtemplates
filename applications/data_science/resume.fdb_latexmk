@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1699901698 "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.tex" "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.pdf" "resume" 1699901725
+["pdflatex"] 1699901698 "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.tex" "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.pdf" "resume" 1699908325
   "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.aux" 1699901698 1142 fc1b91a8fa4495626af408504cb54a70 ""
-  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.tex" 1699901724 7901 9867cedcf5cd36d90a20c12feeab968b ""
+  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.tex" 1699908324 7901 9867cedcf5cd36d90a20c12feeab968b ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -58,11 +58,11 @@
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
   "resume.aux" 1699901698 1142 fc1b91a8fa4495626af408504cb54a70 "pdflatex"
   "resume.out" 1699901698 252 e7ccf69eba247fea75c5361c2d225a4c "pdflatex"
-  "resume.tex" 1699901724 7901 9867cedcf5cd36d90a20c12feeab968b ""
+  "resume.tex" 1699908324 7901 9867cedcf5cd36d90a20c12feeab968b ""
   (generated)
+  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.pdf"
+  "resume.pdf"
+  "resume.aux"
   "resume.log"
   "resume.out"
-  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.pdf"
-  "resume.aux"
-  "resume.pdf"
   "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.log"
