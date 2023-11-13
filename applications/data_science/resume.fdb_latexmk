@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1695681832 "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.tex" "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.pdf" "resume" 1695681983
-  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.aux" 1695681833 1142 fc1b91a8fa4495626af408504cb54a70 ""
-  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.tex" 1695681983 7956 f2de43d091005749c32fc2ea22793ccb ""
+["pdflatex"] 1699901698 "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.tex" "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.pdf" "resume" 1699901725
+  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.aux" 1699901698 1142 fc1b91a8fa4495626af408504cb54a70 ""
+  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.tex" 1699901724 7901 9867cedcf5cd36d90a20c12feeab968b ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1246382020 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -56,13 +56,13 @@
   "/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1557342064 3277517 23507ed665b4dd9046f0f2a94bbef2be ""
   "/usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1557342086 4259635 562fc36ec496993777a6c428d8bfb811 ""
   "/usr/local/texlive/2019/texmf.cnf" 1557341546 577 d150fef99ac436ad1156e86b0892f6ef ""
-  "resume.aux" 1695681833 1142 fc1b91a8fa4495626af408504cb54a70 "pdflatex"
-  "resume.out" 1695681833 252 e7ccf69eba247fea75c5361c2d225a4c "pdflatex"
-  "resume.tex" 1695681983 7956 f2de43d091005749c32fc2ea22793ccb ""
+  "resume.aux" 1699901698 1142 fc1b91a8fa4495626af408504cb54a70 "pdflatex"
+  "resume.out" 1699901698 252 e7ccf69eba247fea75c5361c2d225a4c "pdflatex"
+  "resume.tex" 1699901724 7901 9867cedcf5cd36d90a20c12feeab968b ""
   (generated)
   "resume.log"
-  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.log"
-  "resume.aux"
   "resume.out"
   "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.pdf"
+  "resume.aux"
   "resume.pdf"
+  "/Users/aaron/Documents/LaTeXtemplates/applications/data_science/resume.log"
